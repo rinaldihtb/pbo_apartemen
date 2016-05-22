@@ -1,0 +1,7 @@
+c:\users\huta\documents\visual studio 2012\Projects\TugasProjek\Apartemen\bin\Debug\Apartemen.exe.config
+E:\Rere's Room Corner\Mikroskil\Semester 4\PBO\TugasProjek\Apartemen\bin\Debug\Apartemen.exe.config
+E:\Rere's Room Corner\Mikroskil\Semester 4\PBO\TugasProjek\Apartemen\bin\Debug\Apartemen.exe
+E:\Rere's Room Corner\Mikroskil\Semester 4\PBO\TugasProjek\Apartemen\bin\Debug\Apartemen.pdb
+E:\Rere's Room Corner\Mikroskil\Semester 4\PBO\TugasProjek\Apartemen\obj\Debug\Apartemen.csprojResolveAssemblyReference.cache
+E:\Rere's Room Corner\Mikroskil\Semester 4\PBO\TugasProjek\Apartemen\obj\Debug\Apartemen.exe
+E:\Rere's Room Corner\Mikroskil\Semester 4\PBO\TugasProjek\Apartemen\obj\Debug\Apartemen.pdb
